@@ -33,3 +33,7 @@ const bd = {
 
 export default bd;
 ```
+
+# Terceiro dia estou aqui novamente
+
+Hoje deu um problema em meu projeto eu uso uma ferramenta chamada Gitpod, ela é um container que tem um Visual Studio Code integrado, mas enquanto eu estavo fazendo meu código acontece que essa ferramenta cai, porém eu já tinha acabado o dia só falta dar um git push, então eu apenas esperei até ficar online novamente e dei um push, as únicas alterações que eu fiz no backend foi de adicionar uma função delete dev para quando um usuário clicar em uma lixeira do dev-item será excluido, porém tive que colocar 2 requisições ao banco de dados e uma a api então ficou um pouco de demora no resultado e isso me incomodou talvez amanhã eu tento otimizar um pouco mais.
